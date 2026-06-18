@@ -6,7 +6,7 @@ A dedicated Full Stack Developer with hands-on experience in Java, Spring Boot, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-akhlad-hussain-649b34192/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -53,15 +53,6 @@ A dedicated Full Stack Developer with hands-on experience in Java, Spring Boot, 
 ---
 
 ## 🎓 Education & Achievements
-* **B.Tech – Computer Science & Engineering** | Jammu Hamdard University *(2026)*
+* **B.Tech – Computer Science & Engineering** | Jamia Hamdard University *(2026)*
   * **8.4 CGPA** (Top 10% of cohort).
 * **Extracurriculars:** Treasurer (University Business Association), University Cricket Captain, Volunteer at 2 International Conferences.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akh ladsiddique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Akhlad's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh ladsiddique&layout=compact&theme=radical" alt="Top Languages" />
-</p>
