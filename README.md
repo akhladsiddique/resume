@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm [md akhlad hussain]</h1>
-<h3 align="center">A passionate Java Developer and Problem Solver</h3>
+# Hi there 👋, I'm Md Akhlad Hussain
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### 🚀 Full Stack Developer | Java | Spring Boot | Angular
 
-- 🔭 I’m currently working on **Java Projects and DSA Problems**
-
-- 🌱 I’m currently learning **Advanced Java Frameworks (Spring, Hibernate)**
-
-- 👯 I’m looking to collaborate on **Open Source Java and Python Projects**
-
-- 🤝 I’m looking for help with **System Design and Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/akhladsiddique](#) (optional)
-
-- 📫 How to reach me **[akhladhussain42@gmail.com.com]**
-
-- ⚡ Fun fact **I love exploring Data Structures and solving real-world problems!**
-
----
-
-## 🛠️ Languages and Tools:
-
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" /> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" /> 
-  </a> 
-  <a href="https://en.cppreference.com/w/c" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" /> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" /> 
-  </a> 
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="my github stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="my github streak" width="400"/>
-</p>
-
----
-
-## ✍️ Quote of the Day:
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🔗 Connect with me:
+A dedicated Full Stack Developer with hands-on experience in Java, Spring Boot, MySQL, and HTML/CSS. Built REST API-driven web applications handling 500+ users. Exposure to Angular, Git, and JavaScript. Seeking to contribute to a product-driven engineering team.
 
 <p align="left">
-<a href="[https://linkedin.com/in/md-akhlad-hussain-649b34192/ " target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:[your-email@example.com]" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/md-akhlad-hussain-649b34192/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🛠 Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_API-red?style=flat" alt="REST API" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+## 💼 Experience & Projects
+
+### 👨‍💻 Internships
+**Full Stack Developer Intern | BUSIGROW, Patna** *(Jul 2025 – Oct 2025)*
+* Decreased backend latency by 30% by architecting a Spring Boot REST API with optimized MySQL schema and connection pooling.
+* Integrated RESTful APIs with an Angular frontend; managed codebase via Git/GitHub in a 4-person agile squad.
+
+### 💻 Key Projects
+**1. Attendance Management System** *(2024)*
+* Reduced processing time by 70% for 500+ users via Spring Boot REST API, JDBC, and optimized MySQL triggers for real-time reporting.
+* Built a responsive HTML5/CSS3 admin dashboard with role-based access, version-controlled on Git.
+
+**2. Simple Banking Application** *(2025)*
+* Built a full-stack banking portal with account creation, fund transfers, and history using Spring Boot REST APIs and MySQL ACID transactions.
+* Reduced transaction errors by 85% via input validation, exception handling, and JWT-based secured Angular frontend with reactive forms.
+
+**3. Clinical Research Website** *(2025)*
+* Developed a fully responsive clinical research portal for study browsing, enquiry submission, and publications using HTML5, CSS3, and JavaScript.
+* Improved page load speed by 45% via lazy-loading and minified assets; built dynamic filters, modals, and form validation in vanilla JavaScript.
+
+---
+
+## 🎓 Education & Achievements
+* **B.Tech – Computer Science & Engineering** | Jammu Hamdard University *(2026)*
+  * **8.4 CGPA** (Top 10% of cohort).
+* **Extracurriculars:** Treasurer (University Business Association), University Cricket Captain, Volunteer at 2 International Conferences.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akh ladsiddique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Akhlad's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh ladsiddique&layout=compact&theme=radical" alt="Top Languages" />
 </p>
